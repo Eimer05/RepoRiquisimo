@@ -1,2 +1,2 @@
 # RepoRiquisimo
-***primeros pasos en Git
+***primeros pasos en Git***
